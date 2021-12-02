@@ -1,4 +1,5 @@
 # ffuf_presentation
+aliases.sh: useful aliases for ffuf (in repo above)
 
 ## links
 * ffuf: https://github.com/ffuf/ffuf
